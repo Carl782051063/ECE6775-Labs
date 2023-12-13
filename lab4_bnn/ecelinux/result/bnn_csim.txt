@@ -1,0 +1,2 @@
+Accuracy: 0.9
+digirec BNN         :      1 calls; 51936.918 msecs total time
